@@ -1,0 +1,13 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d7c4c6"
+    tools:context="test.bawei.com.fragmentviewpager.One_one_Fragment">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="请赏析一下李白写这首诗的时候想的都是什么"/>
+
+
+</FrameLayout>
